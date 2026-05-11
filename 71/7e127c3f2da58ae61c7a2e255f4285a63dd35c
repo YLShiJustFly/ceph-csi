@@ -1,0 +1,24 @@
+internal/rbd/rbd_healer.go
+  c599e266bd772bfa 71-76,78-83,124
+e2e/rbd.go
+  c599e266bd772bfa 2624-2772
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "717e127c3f2da58ae61c7a2e255f4285a63dd35c",
+  "prompts": {
+    "c599e266bd772bfa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "12afec8b-dab3-4dd3-9fc7-f62f1f4eb918",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "YLShiJustFly",
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 167,
+      "overriden_lines": 0
+    }
+  }
+}
